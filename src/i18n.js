@@ -36,12 +36,13 @@ const languageList = {
     "et-EE": "eesti",
     "vi-VN": "Tiếng Việt",
     "zh-TW": "繁體中文 (台灣)",
-    "uk-UA": "Український",
+    "uk-UA": "Українська",
     "th-TH": "ไทย",
     "el-GR": "Ελληνικά",
     "yue": "繁體中文 (廣東話 / 粵語)",
     "ro": "Limba română",
-    "ur": "Urdu"
+    "ur": "Urdu",
+    "ge": "ქართული"
 };
 
 let messages = {
